@@ -1,4 +1,4 @@
-# Implemented codes for the anonymous submitted paper to DAC'2024.
+# Implemented codes for the anonymous submitted paper "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to DAC'2024.
 
 # Language: Python
 
