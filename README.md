@@ -9,7 +9,7 @@
 
 2) Input of main function:
 
-The synthesised FPGA netlist as graph_intel.v in the example.
+The synthesized FPGA netlist as graph_intel.v in the example.
 
 
 3) Output of main function:
