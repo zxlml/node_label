@@ -1,4 +1,4 @@
-# Implemented codes for the anonymous submitted paper "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to DAC'2024.
+# Implemented codes for the anonymous submitted paper "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" under Review.
 
 # Language: Python
 
@@ -9,7 +9,7 @@
 
 2) Input of main function:
 
-The synthesised FPGA netlist as graph_intel.v in example.
+The synthesised FPGA netlist as graph_intel.v in the example.
 
 
 3) Output of main function:
