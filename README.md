@@ -6,11 +6,9 @@
 
 1) The main function that the open source code runs is main() in main.py.
 
-
 2) Input of main function:
 
 The synthesized FPGA netlist as graph_intel.v in the example.
-
 
 3) Output of main function:
 
